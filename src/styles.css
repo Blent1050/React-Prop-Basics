@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.contact-card {
+  margin-bottom: 10px;
+  border-bottom: 1px solid black;
+}
